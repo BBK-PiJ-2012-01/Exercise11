@@ -2,12 +2,10 @@ package phone;
 
 /**
  * Created with IntelliJ IDEA.
- * User: eatmuchpie
+ * User: Sam Wright
  * Date: 05/11/2012
  * Time: 13:34
- * To change this template use File | Settings | File Templates.
  */
-
 /**
  * A phone makes calls
  */

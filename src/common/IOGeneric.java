@@ -173,9 +173,8 @@ public class IOGeneric {
         }
         
         System.out.print("\nYour choice: ");
-        int choice_int = getInteger();
-        
-        return choice_int;
+
+        return getInteger();
     }
     
     public static int chooseFromList(String[] lst) throws BadInput {

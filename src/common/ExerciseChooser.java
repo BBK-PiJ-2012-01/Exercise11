@@ -16,8 +16,7 @@ import java.util.List;
 public class ExerciseChooser {
     private List<Exercise> exercises;
     private List<String> titles = new ArrayList<String>();
-    private String question;
-    
+
     boolean running = false;
     
     public ExerciseChooser(List<Exercise> new_exercises) throws BadInput {
@@ -33,7 +32,7 @@ public class ExerciseChooser {
     }
     
     public void run() {
-        question = String.format("Choose which exercise to run [%d -> %d]?", 0, exercises.size()-1);
+        String question = String.format("Choose which exercise to run [%d -> %d]?", 0, exercises.size() - 1);
         Exercise chosen;
         
         while (true) {

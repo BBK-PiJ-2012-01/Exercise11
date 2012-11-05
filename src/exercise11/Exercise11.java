@@ -3,7 +3,6 @@ package exercise11;
 import common.BadInput;
 import common.Exercise;
 import common.ExerciseChooser;
-import phone.PhoneLauncherExercise;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -19,6 +18,9 @@ public class Exercise11 {
         List<Exercise> exercises = new ArrayList<Exercise>();
 
         exercises.add(new PhoneLauncherExercise());
+        exercises.add(new GuitarExercise());
+        exercises.add(new MagicConstExercise());
+        exercises.add(new NoahExercise());
 
         ExerciseChooser ech = new ExerciseChooser(exercises);
         ech.run();

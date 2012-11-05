@@ -20,6 +20,10 @@ public class SmartPhone extends MobilePhone {
         return "51.521792,-0.130651";
     }
 
+    public void playGame(String str) {
+        super.playGame(str);
+    }
+
     @Override
     public void call(String number) {
         if (number.startsWith("00")) {

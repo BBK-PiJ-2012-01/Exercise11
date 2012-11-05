@@ -1,7 +1,8 @@
-package phone;
+package exercise11;
 
 import common.Exercise;
 import common.IOGeneric;
+import phone.SmartPhone;
 
 /**
  * Created with IntelliJ IDEA.

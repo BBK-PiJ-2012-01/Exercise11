@@ -19,7 +19,13 @@ public class MobilePhone extends OldPhone {
         System.out.format("Wake up!! %s\n", str);
     }
 
-    public void playGame(String str) {
+    protected void playGame(String str) {
+        /*
+        Demonstrates that protected methods are accessible to subclasses
+        AND everything in the same package (eg. SmartPhone is subclass so
+        can access playGame, but PhoneLauncherExercise is outside the package
+        so must wrap playGame in public method to make it public).
+         */
         System.out.format("Playing %s\n", str);
     }
 

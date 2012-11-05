@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2080e25-523d-401a-9123-ca199dcdd2e2" name="Default" comment="Finished ex3.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exercise11/Exercise11.java" />
+    <list default="true" id="e2080e25-523d-401a-9123-ca199dcdd2e2" name="Default" comment="Nearly done Noah exercise.">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FinalMethods/NewString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MagicConstructors/Lecturer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MagicConstructors/Teacher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NoahArc/Animal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NoahArc/AnimalFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NoahArc/AnimalImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NoahArc/Mammal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NoahArc/MammalImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NoahArc/NonMammal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NoahArc/NonMammalImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NoahArc/TimeFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exercise11/GuitarExercise.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exercise11/MagicConstExercise.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exercise11/NoahExercise.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/multipleInheritance/Guitar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/multipleInheritance/MusicalInstrument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/multipleInheritance/WoodenObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/phone/RestrictedSmartPhone.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/phone/PhoneLauncherExercise.java" afterPath="$PROJECT_DIR$/src/exercise11/PhoneLauncherExercise.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/common/ExerciseChooser.java" afterPath="$PROJECT_DIR$/src/common/ExerciseChooser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/common/IOGeneric.java" afterPath="$PROJECT_DIR$/src/common/IOGeneric.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/exercise11/Exercise11.java" afterPath="$PROJECT_DIR$/src/exercise11/Exercise11.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/phone/MobilePhone.java" afterPath="$PROJECT_DIR$/src/phone/MobilePhone.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/phone/OldPhone.java" afterPath="$PROJECT_DIR$/src/phone/OldPhone.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/phone/PhoneLauncherExercise.java" afterPath="$PROJECT_DIR$/src/phone/PhoneLauncherExercise.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/phone/Phone.java" afterPath="$PROJECT_DIR$/src/phone/Phone.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/phone/SmartPhone.java" afterPath="$PROJECT_DIR$/src/phone/SmartPhone.java" />
     </list>
     <ignored path="Exercise11.iws" />
@@ -18,6 +38,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -65,59 +90,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Phone.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/phone/Phone.java">
+      <file leaf-file-name="NoahExercise.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/exercise11/NoahExercise.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExerciseChooser.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/common/ExerciseChooser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="26" selection-start="1110" selection-end="1110" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OldPhone.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/phone/OldPhone.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="18" selection-start="267" selection-end="267" vertical-scroll-proportion="0.49342105">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MobilePhone.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/phone/MobilePhone.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#244#252#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SmartPhone.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/phone/SmartPhone.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="7" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PhoneLauncherExercise.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/phone/PhoneLauncherExercise.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="59" selection-start="538" selection-end="538" vertical-scroll-proportion="0.0">
+            <state line="40" column="50" selection-start="1416" selection-end="1416" vertical-scroll-proportion="0.8227612">
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#931#939#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -126,29 +105,11 @@
       <file leaf-file-name="Exercise11.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/exercise11/Exercise11.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="17" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0">
+            <state line="22" column="40" selection-start="583" selection-end="583" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#418#428#0" expanded="true" />
+                <element signature="e#382#392#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Exercise.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/common/Exercise.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="17" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IOGeneric.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/common/IOGeneric.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="158" column="27" selection-start="4748" selection-end="4748" vertical-scroll-proportion="-8.384615">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -166,19 +127,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/exercise11/Phone.java" />
-        <option value="$PROJECT_DIR$/src/exercise11/MobilePhone.java" />
-        <option value="$PROJECT_DIR$/src/exercise11/OldPhone.java" />
-        <option value="$PROJECT_DIR$/src/exercise11/SmartPhone.java" />
-        <option value="$PROJECT_DIR$/src/common/BadInput.java" />
-        <option value="$PROJECT_DIR$/src/common/Exercise.java" />
-        <option value="$PROJECT_DIR$/src/common/ExerciseChooser.java" />
-        <option value="$PROJECT_DIR$/src/common/IOGeneric.java" />
-        <option value="$PROJECT_DIR$/src/phone/OldPhone.java" />
-        <option value="$PROJECT_DIR$/src/phone/SmartPhone.java" />
-        <option value="$PROJECT_DIR$/src/phone/MobilePhone.java" />
-        <option value="$PROJECT_DIR$/src/phone/PhoneLauncherExercise.java" />
+        <option value="$PROJECT_DIR$/src/multipleInheritance/Guitar.java" />
+        <option value="$PROJECT_DIR$/src/exercise11/GuitarExercise.java" />
+        <option value="$PROJECT_DIR$/src/MagicConstructors/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/MagicConstructors/Lecturer.java" />
+        <option value="$PROJECT_DIR$/src/exercise11/MagicConstExercise.java" />
+        <option value="$PROJECT_DIR$/src/FinalMethods/NewString.java" />
+        <option value="$PROJECT_DIR$/src/NoahArc/NonMammal.java" />
+        <option value="$PROJECT_DIR$/src/NoahArc/Mammal.java" />
+        <option value="$PROJECT_DIR$/src/NoahArc/TimeFrame.java" />
+        <option value="$PROJECT_DIR$/src/NoahArc/Animal.java" />
+        <option value="$PROJECT_DIR$/src/NoahArc/AnimalImpl.java" />
+        <option value="$PROJECT_DIR$/src/NoahArc/MammalImpl.java" />
+        <option value="$PROJECT_DIR$/src/NoahArc/NonMammalImpl.java" />
+        <option value="$PROJECT_DIR$/src/NoahArc/AnimalFactory.java" />
         <option value="$PROJECT_DIR$/src/exercise11/Exercise11.java" />
+        <option value="$PROJECT_DIR$/src/exercise11/NoahExercise.java" />
       </list>
     </option>
   </component>
@@ -288,6 +252,78 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="NoahArc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Exercise11" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Exercise11" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="multipleInheritance" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Exercise11" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Exercise11" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MagicConstructors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Exercise11" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Exercise11" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FinalMethods" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Exercise11" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Exercise11" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="exercise11" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -358,6 +394,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="NoahArc" />
+      <recent name="phone" />
       <recent name="exercise11" />
     </key>
   </component>
@@ -535,12 +573,16 @@
       <created>1352124708824</created>
       <updated>1352124708824</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Finished ex3.">
+      <created>1352126502992</created>
+      <updated>1352126502992</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="874" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -548,15 +590,15 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934928" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32934928" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25232404" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.6706507" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39956957" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.74767596" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997344" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934928" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -601,7 +643,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished ex3." />
+    <option name="LAST_COMMIT_MESSAGE" value="Nearly done Noah exercise." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -617,6 +659,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Nearly done phone exercise." />
     <MESSAGE value="Finished ex3." />
+    <MESSAGE value="Nearly done Noah exercise." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -626,87 +669,125 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/common/Exercise.java">
+    <entry file="file://$PROJECT_DIR$/src/multipleInheritance/Guitar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="17" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
+        <state line="8" column="45" selection-start="169" selection-end="169" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/BadInput.java">
+    <entry file="file://$PROJECT_DIR$/src/exercise11/GuitarExercise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="13" selection-start="188" selection-end="188" vertical-scroll-proportion="0.14914773">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/phone/Phone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="16" selection-end="16" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_09.jdk/Contents/Home/src.zip!/java/util/Formatter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2486" column="0" selection-start="102914" selection-end="102914" vertical-scroll-proportion="0.33333334">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/IOGeneric.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="158" column="27" selection-start="4748" selection-end="4748" vertical-scroll-proportion="-8.384615">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/ExerciseChooser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="26" selection-start="1110" selection-end="1110" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/phone/SmartPhone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="7" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/phone/MobilePhone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#244#252#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/phone/PhoneLauncherExercise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="59" selection-start="538" selection-end="538" vertical-scroll-proportion="0.0">
+        <state line="33" column="19" selection-start="758" selection-end="758" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MagicConstructors/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="73" selection-start="409" selection-end="409" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MagicConstructors/Lecturer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="4" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercise11/MagicConstExercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="23" selection-start="871" selection-end="871" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FinalMethods/NewString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="71" selection-start="221" selection-end="221" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NoahArc/NonMammal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="20" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NoahArc/Mammal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="27" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NoahArc/TimeFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="20" selection-start="326" selection-end="326" vertical-scroll-proportion="0.31960228">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NoahArc/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="21" selection-start="198" selection-end="198" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NoahArc/AnimalImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="33" selection-start="643" selection-end="643" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NoahArc/MammalImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="38" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NoahArc/NonMammalImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="38" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NoahArc/AnimalFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="59" selection-start="394" selection-end="394" vertical-scroll-proportion="0.26859504">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/exercise11/Exercise11.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="17" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0">
+        <state line="22" column="40" selection-start="583" selection-end="583" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#418#428#0" expanded="true" />
+            <element signature="e#382#392#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/phone/OldPhone.java">
+    <entry file="file://$PROJECT_DIR$/src/exercise11/NoahExercise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="18" selection-start="267" selection-end="267" vertical-scroll-proportion="0.49342105">
-          <folding />
+        <state line="40" column="50" selection-start="1416" selection-end="1416" vertical-scroll-proportion="0.8227612">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#931#939#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
