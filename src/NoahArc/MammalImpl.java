@@ -13,7 +13,7 @@ public class MammalImpl extends AnimalImpl implements Mammal {
 
     @Override
     public void giveBirth() {
-        System.out.format("I am giving birth to another %s!", getName());
+        System.out.format("I am giving birth to another %s!\n", getName());
     }
 
     @Override

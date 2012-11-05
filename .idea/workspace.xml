@@ -1,33 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2080e25-523d-401a-9123-ca199dcdd2e2" name="Default" comment="Nearly done Noah exercise.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FinalMethods/NewString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MagicConstructors/Lecturer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MagicConstructors/Teacher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NoahArc/Animal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NoahArc/AnimalFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NoahArc/AnimalImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NoahArc/Mammal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NoahArc/MammalImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NoahArc/NonMammal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NoahArc/NonMammalImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NoahArc/TimeFrame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exercise11/GuitarExercise.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exercise11/MagicConstExercise.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/exercise11/NoahExercise.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/multipleInheritance/Guitar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/multipleInheritance/MusicalInstrument.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/multipleInheritance/WoodenObject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/phone/RestrictedSmartPhone.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/phone/PhoneLauncherExercise.java" afterPath="$PROJECT_DIR$/src/exercise11/PhoneLauncherExercise.java" />
+    <list default="true" id="e2080e25-523d-401a-9123-ca199dcdd2e2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/common/ExerciseChooser.java" afterPath="$PROJECT_DIR$/src/common/ExerciseChooser.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/common/IOGeneric.java" afterPath="$PROJECT_DIR$/src/common/IOGeneric.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/exercise11/Exercise11.java" afterPath="$PROJECT_DIR$/src/exercise11/Exercise11.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/phone/MobilePhone.java" afterPath="$PROJECT_DIR$/src/phone/MobilePhone.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/phone/Phone.java" afterPath="$PROJECT_DIR$/src/phone/Phone.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/phone/SmartPhone.java" afterPath="$PROJECT_DIR$/src/phone/SmartPhone.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/NoahArc/MammalImpl.java" afterPath="$PROJECT_DIR$/src/NoahArc/MammalImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/NoahArc/NonMammalImpl.java" afterPath="$PROJECT_DIR$/src/NoahArc/NonMammalImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/exercise11/NoahExercise.java" afterPath="$PROJECT_DIR$/src/exercise11/NoahExercise.java" />
     </list>
     <ignored path="Exercise11.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -93,22 +71,9 @@
       <file leaf-file-name="NoahExercise.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/exercise11/NoahExercise.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="50" selection-start="1416" selection-end="1416" vertical-scroll-proportion="0.8227612">
+            <state line="4" column="34" selection-start="99" selection-end="99" vertical-scroll-proportion="0.12552302">
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="e#931#939#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Exercise11.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/exercise11/Exercise11.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="40" selection-start="583" selection-end="583" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#382#392#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -138,10 +103,10 @@
         <option value="$PROJECT_DIR$/src/NoahArc/TimeFrame.java" />
         <option value="$PROJECT_DIR$/src/NoahArc/Animal.java" />
         <option value="$PROJECT_DIR$/src/NoahArc/AnimalImpl.java" />
-        <option value="$PROJECT_DIR$/src/NoahArc/MammalImpl.java" />
-        <option value="$PROJECT_DIR$/src/NoahArc/NonMammalImpl.java" />
         <option value="$PROJECT_DIR$/src/NoahArc/AnimalFactory.java" />
         <option value="$PROJECT_DIR$/src/exercise11/Exercise11.java" />
+        <option value="$PROJECT_DIR$/src/NoahArc/MammalImpl.java" />
+        <option value="$PROJECT_DIR$/src/NoahArc/NonMammalImpl.java" />
         <option value="$PROJECT_DIR$/src/exercise11/NoahExercise.java" />
       </list>
     </option>
@@ -577,7 +542,11 @@
       <created>1352126502992</created>
       <updated>1352126502992</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Nearly done Noah exercise.">
+      <created>1352132584734</created>
+      <updated>1352132584734</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -593,14 +562,14 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934928" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25232404" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25232404" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39956957" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.74767596" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964131" sideWeight="0.6706507" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997344" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934928" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32934928" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -743,27 +712,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NoahArc/AnimalImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="33" selection-start="643" selection-end="643" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NoahArc/MammalImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="38" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NoahArc/NonMammalImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="38" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/NoahArc/AnimalFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="59" selection-start="394" selection-end="394" vertical-scroll-proportion="0.26859504">
@@ -781,11 +729,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/NoahArc/AnimalImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="33" selection-start="643" selection-end="643" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NoahArc/MammalImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="61" selection-start="402" selection-end="402" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NoahArc/NonMammalImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="61" selection-start="409" selection-end="409" vertical-scroll-proportion="0.4707113">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/exercise11/NoahExercise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="50" selection-start="1416" selection-end="1416" vertical-scroll-proportion="0.8227612">
+        <state line="4" column="34" selection-start="99" selection-end="99" vertical-scroll-proportion="0.12552302">
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="e#931#939#0" expanded="true" />
           </folding>
         </state>

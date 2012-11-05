@@ -13,7 +13,7 @@ public class NonMammalImpl extends AnimalImpl implements NonMammal {
 
     @Override
     public void layEggs() {
-        System.out.format("I am giving birth to another %s!", getName());
+        System.out.format("I am giving birth to another %s!\n", getName());
     }
 
     @Override

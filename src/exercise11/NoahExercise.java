@@ -43,11 +43,30 @@ public class NoahExercise implements Exercise {
         animals.add( AnimalFactory.create("fly", true, TimeFrame.after_flying, "buzzz...") );
         animals.add( AnimalFactory.create("frog", true, TimeFrame.never, "Ribbit") );
         animals.add( AnimalFactory.create("lizard", true, TimeFrame.now, "Hiss!") );
-        animals.add( AnimalFactory.create("monkey", true, TimeFrame.never, "CHOMP!") );
-        //bears, beetles, cats, crocodiles, dogs, dolphins, eagles, flies, frogs, lizards, monkeys, pigeons, salmon, sharks, snakes, whales
-        IOGeneric.printTitle("Bear", "-");
-        bear.call();
-        bear.makeSound();
-        bear.reproduce();
+        animals.add( AnimalFactory.create("monkey", true, TimeFrame.now, "Ooh ah ah ah!") );
+        animals.add( AnimalFactory.create("pigeon", true, TimeFrame.after_flying, "Cooh cooh!") );
+        animals.add( AnimalFactory.create("salmon", true, TimeFrame.never, "Swish swish...") );
+        animals.add( AnimalFactory.create("shark", true, TimeFrame.never, "Crunch!") );
+        animals.add( AnimalFactory.create("snake", true, TimeFrame.now, "Hiss!") );
+        animals.add( AnimalFactory.create("whale", true, TimeFrame.never, "Ooooaaaaaaaooooh...") );
+
+        IOGeneric.printTitle("Calling all animals!");
+        for (Animal animal : animals) {
+            animal.call();
+        }
+        System.out.println();
+
+        IOGeneric.printTitle("Animals, attract your mates!");
+        for (Animal animal : animals) {
+            animal.makeSound();
+        }
+        System.out.println();
+
+        IOGeneric.printTitle("On your marks, get set, reproduce!");
+        for (Animal animal : animals) {
+            animal.reproduce();
+        }
+        System.out.println();
+
     }
 }
